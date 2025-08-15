@@ -10,7 +10,6 @@ A Python-based GUI application for medical image mask correction and annotation.
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
 
-# Example:
 <img width="2001" height="1063" alt="image" src="https://github.com/user-attachments/assets/343c3f9c-b03f-4808-af1e-bd0c07657588" />
 
 
@@ -174,4 +173,5 @@ For technical support or feature requests, please create an issue in the reposit
 ---
 
 **Note**: This tool is designed for research and educational purposes. For clinical applications, please ensure proper validation and compliance with relevant medical standards.
+
 
